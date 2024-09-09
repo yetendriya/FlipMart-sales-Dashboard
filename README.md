@@ -1,6 +1,9 @@
 # FlipMart-sales-Dashboard
 
 Flipmart Sales Dashboard:
+![Screenshot 2024-09-08 112838](https://github.com/user-attachments/assets/162ff5b8-936c-40ba-bee5-118656e3d0cf)
+
+
 This Power BI dashboard provides a comprehensive overview of Flipmart's sales performance across various metrics. The key highlights include:
 
 Total Sales Overview: A summary of total sales across different regions and categories, offering insights into revenue trends over time.
